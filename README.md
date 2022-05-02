@@ -3,6 +3,8 @@ Blockchain demo project with proof of work, written in Javascript - based on nai
 
 Reference github: https://github.com/LeTriThong/CacCongNgheMoi_Blockchain
 
+Link Youtube: https://youtu.be/odfP_aa_hrQ
+
 ## Features
 
 - Create & Access a wallet with private key
